@@ -121,7 +121,7 @@ Example error response:
   "message": "Book with id 10 not found",
   "timestamp": "2026-02-09T19:40:12"
 }
-
+```
 
 How to Run the Project
 
